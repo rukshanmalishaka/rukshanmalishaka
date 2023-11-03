@@ -1,5 +1,4 @@
 <a href="https://rukshanm.com"> ![logo](https://github.com/rukshanmalishaka/rukshanmalishaka/blob/main/banner-md.webp)</a>
-<a href="https://rukshanm.com"> <img align="right" alt="terminal" width="550" src="https://github.com/rukshanmalishaka/rukshanmalishaka/blob/main/terminal-1.gif"></a>
 
 <h1 align="center">Hi 👋, I'm Rukshan Malishaka</h1>
 <h3 align="center">An innovative software engineer with a flair for full-stack development.</h3>
