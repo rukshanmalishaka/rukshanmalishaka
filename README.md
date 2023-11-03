@@ -12,8 +12,6 @@
 
 <br>
 
-#
-<a href="https://rukshanm.com"> <img alt="terminal" src="https://github.com/rukshanmalishaka/rukshanmalishaka/blob/main/terminal-1.gif"></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rukshan-malishaka-89973a1a6/) 
