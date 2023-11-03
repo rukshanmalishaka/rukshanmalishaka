@@ -8,7 +8,7 @@
 # 💫 About Me:
 <a href="https://rukshanm.com"> <img align="right" alt="terminal" width="550" src="https://github.com/rukshanmalishaka/rukshanmalishaka/blob/main/terminal-1.gif"></a>
 
-<p>🌱 I’m currently learning Python for Machine Learning & AI Development<br><br>👨‍💻 My personal Website rukshanm.com<br><br>📝 I regularly write articles on chesslux.com<br><br>💬 Ask me about PHP Laravel, React js, Next js, MERN Stack,Django<br><br>📫 Reach me rukshan.malishaka@gmail.com<br><br>⚡ Fun fact I like to Sing and Im Chess Player</p>
+<p align="left">🌱 I’m currently learning Python for Machine Learning & AI Development<br><br>👨‍💻 My personal Website rukshanm.com<br><br>📝 I regularly write articles on chesslux.com<br><br>💬 Ask me about PHP Laravel, React js, Next js, MERN Stack,Django<br><br>📫 Reach me rukshan.malishaka@gmail.com<br><br>⚡ Fun fact I like to Sing and Im Chess Player</p>
 
 <br>
 
