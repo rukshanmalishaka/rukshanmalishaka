@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukshanmalishaka&label=Profile%20views&color=0e75b6&style=flat" alt="rukshanmalishaka" /> </p>
 
-<img align="right" alt="terminal" width="400" scr="https://github.com/rukshanmalishaka/rukshanmalishaka/blob/main/terminal-1.gif">
+<img align="right" alt="terminal" width="400" src="https://github.com/rukshanmalishaka/rukshanmalishaka/blob/main/terminal-1.gif">
 
 # 💫 About Me:
 🌱 I’m currently learning Python for Machine Learning & AI Development<br><br>👨‍💻 My personal Website https://rukshanm.com<br><br>📝 I regularly write articles on https://chesslux.com<br><br>💬 Ask me about PHP Laravel, React js, Next js, MERN Stack,Django<br><br>📫 Reach me rukshan.malishaka@gmail.com<br><br>⚡ Fun fact I like to Sing and Im Chess Player<br>
