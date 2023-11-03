@@ -9,11 +9,12 @@
 
 # 💫 About Me:
 
-<a href="https://rukshanm.com"> <img align="center" alt="terminal" width="550" src="https://github.com/rukshanmalishaka/rukshanmalishaka/blob/main/terminal-1.gif"></a>
+<a href="https://rukshanm.com"> <img align="right" alt="terminal" width="550" src="https://github.com/rukshanmalishaka/rukshanmalishaka/blob/main/terminal-1.gif"></a>
 
+<p align ="left">
 🌱 I’m currently learning Python for Machine Learning & AI Development<br><br>👨‍💻 My personal Website https://rukshanm.com<br><br>📝 I regularly write articles on https://chesslux.com<br><br>💬 Ask me about PHP Laravel, React js, Next js, MERN Stack,Django<br><br>📫 Reach me rukshan.malishaka@gmail.com<br><br>⚡ Fun fact I like to Sing and Im Chess Player<br>
 
-
+</p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rukshan-malishaka-89973a1a6/) 
 
