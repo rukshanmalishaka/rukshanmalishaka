@@ -1,4 +1,4 @@
-![logo](https://github.com/rukshanmalishaka/rukshanmalishaka/blob/main/banner-md.webp)
+<a href="rukshanm.com"> ![logo](https://github.com/rukshanmalishaka/rukshanmalishaka/blob/main/banner-md.webp)</a>
 
 <h1 align="center">Hi 👋, I'm Rukshan Malishaka</h1>
 <h3 align="center">An innovative software engineer with a flair for full-stack development.</h3>
