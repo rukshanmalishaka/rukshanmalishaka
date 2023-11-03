@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rukshan Malishaka</h1>
 <h3 align="center">An innovative software engineer with a flair for full-stack development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rukshanmalishaka&label=10000&color=0e75b6&style=flat" alt="rukshanmalishaka" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rukshanmalishaka&label=Profile%20views&color=0e75b6&style=flat" alt="rukshanmalishaka" /> </p>
 
 
 # 💫 About Me:
