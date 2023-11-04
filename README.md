@@ -1,7 +1,26 @@
 <a href="https://rukshanm.com"> ![logo](https://github.com/rukshanmalishaka/rukshanmalishaka/blob/main/banner-md.webp)</a>
 
-<marquee><h1 align="center">Hi 👋, I'm Rukshan Malishaka</h1></marquee>
+<h1 align="center">Hi 👋, I'm Rukshan Malishaka</h1>
 <h3 align="center">An innovative software engineer with a flair for full-stack development.</h3>
+
+<h3 align="center" style="animation: bounce 2s infinite;">
+  An innovative software engineer with a flair for full-stack development.
+</h3>
+
+<style>
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-10px);
+    }
+    60% {
+      transform: translateY(-5px);
+    }
+  }
+</style>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukshanmalishaka&label=Profile%20views&color=0e75b6&style=flat" alt="rukshanmalishaka" /> </p>
 
