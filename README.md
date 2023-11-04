@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukshanmalishaka&label=Profile%20views&color=0e75b6&style=flat" alt="rukshanmalishaka" /> </p>
 
-<p align="left" style="background-color: #0e75b6; padding: 10px; border-radius: 5px;">
-  <img src="https://komarev.com/ghpvc/?username=rukshanmalishaka&label=Profile%20views&color=white&style=flat" alt="rukshanmalishaka" style="max-width: 100%;">
+<p align="left" style="font-size: 24px;">
+  <img src="https://komarev.com/ghpvc/?username=rukshanmalishaka&label=Profile%20views&color=0e75b6&style=flat" alt="rukshanmalishaka" />
 </p>
 
 
